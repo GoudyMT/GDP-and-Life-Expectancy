@@ -15,7 +15,7 @@ This project analyzes the relationship between GDP and life expectancy for six c
   - `Year`: 2000–2015
   - `Life_Expectancy`: Life expectancy at birth (years)
   - `GDP`: Gross Domestic Product (USD)
-- **Rows**: ~96 (16 years × 6 countries)
+- **Rows**: 96 (16 years × 6 countries)
 
 ## Tools Used
 - **Python**: pandas, matplotlib, seaborn
@@ -36,7 +36,7 @@ This project analyzes the relationship between GDP and life expectancy for six c
 - `README.md`: This file
 
 ## How to Run
-1. Clone the repository: `git clone <repo-url>`
+1. Clone the repository: `git clone https://github.com/GoudyMT/GDP-and-Life-Expectancy.git`
 2. Install dependencies: `pip install pandas matplotlib seaborn`
 3. Open `Life_Expectancy_GDP.ipynb` in Jupyter Notebook and run all cells.
 
